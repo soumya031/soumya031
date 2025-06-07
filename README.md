@@ -1,76 +1,65 @@
-## Hi there 👋
-#!/bin/bash
+<h2 align="center">👋 Hi, I'm <b>Soumyadip Saha</b></h2>
 
-# GitHub username
-USERNAME="soumya031"
+<p align="center">
+  <img src="" alt="Soumya031" />
+</p>
 
-# Create a working directory
-WORKDIR="./github_repos"
-mkdir -p "$WORKDIR"
-cd "$WORKDIR" || exit
+---
 
-# Clear any existing files
-rm -rf ./*
+### 👨‍💻 About Me:
 
-echo "🔄 Fetching repository list for user: $USERNAME"
-# Fetch all public repos using GitHub API
-REPOS=$(curl -s "https://api.github.com/users/$USERNAME/repos?per_page=100" | jq -r '.[].clone_url')
+- 💻 I am a *Mern Stack Developer* with expertise in the *MERN Stack* (MongoDB, Express, React, Node.js).
+- 🔧 Strong background in *Data Structures and Algorithms (DSA)* and *Java* and *Python* programming.
+- 📱 Skilled in *React Native* for *App development*, delivering responsive mobile applications.
+- 🌱 Constantly learning and exploring the latest technologies in web and mobile also the AI-Machine learning development.
+- 📫 Check out my personal website: <b>[My Portfolio]</b>
 
-# Clone all repos
-for REPO in $REPOS; do
-    echo "📥 Cloning $REPO..."
-    git clone --quiet "$REPO"
-done
+---
 
-# Initialize counters
-py_count=0
-js_count=0
-cpp_count=0
-java_count=0
+### 🛠 Technologies & Tools:
 
-# Create or clear summary
-echo "📄 GitHub Repo Analysis for $USERNAME" > summary.txt
-echo "----------------------------------------" >> summary.txt
+- *Frontend*: React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap/Material UI, Tailwind CSS 
+- *Backend*: Node.js, Express.js , Django , Fast API , Applet , Gradio 
+- *Mobile Development*: React Native (App)
+- *Databases*: MongoDB, Firebase , Supabase
+- *Version Control*: Git, GitHub
+- *Languages*: JavaScript, Java , Python, C, SQL, JavaScript, HTML/CSS 
+- *Tools & Platforms*: VS Code, Postman, Firebase , AWS & Azure Cloud Platform, GCP , VS Code, Visual Studio, PyCharm, IntelliJ, Dev-C/C++, Jupyter notebook
+- *Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Keres, NLTK , Tensorflow , Seaborn
 
-# Loop through repos
-for dir in */ ; do
-    cd "$dir" || continue
-    repo_name=$(basename "$PWD")
+---
 
-    # Get last commit message
-    last_commit=$(git log -1 --pretty=%B 2>/dev/null)
-    echo "📘 Repo: $repo_name" >> ../summary.txt
-    echo "    ➤ Last commit: $last_commit" >> ../summary.txt
+### 📊 GitHub Stats:
 
-    # Count file types
-    py_count=$((py_count + $(find . -type f -name "*.py" | wc -l)))
-    js_count=$((js_count + $(find . -type f -name "*.js" | wc -l)))
-    cpp_count=$((cpp_count + $(find . -type f \( -name "*.c" -o -name "*.cpp" \) | wc -l)))
-    java_count=$((java_count + $(find . -type f -name "*.java" | wc -l)))
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashes2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashes2004&hide=html&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashes2004&theme=radical" alt="Total Contributions"/>
+</p>
 
-    cd ..
-done
+---
 
-# Append totals
-echo -e "\n📊 File Type Summary:" >> summary.txt
-echo "    🐍 Python files: $py_count" >> summary.txt
-echo "    📜 JavaScript files: $js_count" >> summary.txt
-echo "    💻 C/C++ files: $cpp_count" >> summary.txt
-echo "    ☕ Java files: $java_count" >> summary.txt
+### 🚀 Projects:
 
-echo "✅ Analysis complete. Report saved to $(pwd)/summary.txt"
+- 
+- 
+-
+- Many more...
 
-<!--
-**soumya031/soumya031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Let's Connect:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/soumya031">
+    <img src="https://img.shields.io/badge/GitHub-Ashes2004-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://mrchatur.com/">
+    <img src="https://img.shields.io/badge/Website-Mr.%20Chatur-blue?style=for-the-badge&logo=google-chrome" alt="Website">
+  </a>
+</p>
+
+<!---
+Ashes2004/Ashes2004 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
