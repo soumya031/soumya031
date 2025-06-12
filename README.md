@@ -25,7 +25,7 @@
 - *Databases*: MongoDB, Firebase , Supabase
 - *Version Control*: Git, GitHub
 - *Languages*: JavaScript, Java , Python, C, SQL, JavaScript, HTML/CSS 
-- *Tools & Platforms*: VS Code, Postman, Firebase , AWS & Azure Cloud Platform, GCP , VS Code, Visual Studio, PyCharm, IntelliJ, Dev-C/C++, Jupyter notebook
+- *Tools & Platforms*: VS Code, Postman, Firebase , AWS & Azure Cloud Platform, GCP , Visual Studio, PyCharm, IntelliJ, Dev-C/C++, Jupyter notebook
 - *Libraries*: Pandas, NumPy, Matplotlib, Scikit-learn, Keres, NLTK , Tensorflow , Seaborn
 
 ---
