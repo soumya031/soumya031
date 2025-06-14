@@ -1,9 +1,13 @@
 <h2 align="center">👋 Hi, I'm <b>Soumyadip Saha</b></h2>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Soumya031&label=Profile%20views&color=0e75b6&style=flat" alt="SoumyadipSaha" />
 </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;AI-ML+Enthusiast;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</h3>
+
 
 ---
 
@@ -97,7 +101,6 @@
  Built a machine learning-based application to predict diseases based on user symptoms.
  Trained models using medical datasets to enhance prediction accuracy.
  Developed a user-friendly interface for easy input and diagnosis generation
--
 - Many more...
 
 ---
