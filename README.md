@@ -17,16 +17,62 @@
 
 ---
 
-### 🛠 Technologies & Tools:
+## 🛠️ Tech Stack
 
-- *Frontend*: React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap/Material UI, Tailwind CSS 
-- *Backend*: Node.js, Express.js , Django , Fast API , Applet , Gradio 
-- *App Development*: React Native (App)
-- *Databases*: MongoDB, Firebase , Supabase
-- *Version Control*: Git, GitHub
-- *Languages*: JavaScript, Java , Python, C, SQL, JavaScript, HTML/CSS 
-- *Tools & Platforms*: VS Code, Postman, Firebase , AWS & Azure Cloud Platform, GCP , Visual Studio, PyCharm, IntelliJ, Dev-C/C++, Jupyter notebook
-- *Libraries*: Pandas, NumPy, Matplotlib, Scikit-learn, Keres, NLTK , Tensorflow , Seaborn
+### 💻 Languages:
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat&logo=gnu-bash)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+
+### 🌐 Frontend:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui)
+
+### 🖥️ Backend:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![Gradio](https://img.shields.io/badge/-Gradio-3B518A?style=flat)
+
+### 📱 App Development:
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react)
+
+### 🛢️ Databases & Cloud:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud)
+
+### 🧰 Tools & Platforms:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-143?style=flat&logo=pycharm)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+![Dev-C++](https://img.shields.io/badge/-Dev--C++-004482?style=flat)
+
+### 📚 Libraries & ML Tools:
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-5A6E9C?style=flat
 
 ---
 
