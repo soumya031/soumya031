@@ -72,7 +72,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-5A6E9C?style=flat
+![Seaborn](https://img.shields.io/badge/-Seaborn-5A6E9C?style=flat)
 
 ---
 
