@@ -17,7 +17,7 @@
 - 🔧 Strong background in *Data Structures and Algorithms (DSA)* and *Java* and *Python* programming.
 - 📱 Skilled in *Python* for *App and Web development*, *AI and Ml solutions* delivering responsive mobile applications.
 - 🌱 Constantly learning and exploring the latest technologies in web and mobile also the AI-Machine learning development.
-- 📫 Check out my personal website: <b>[My Portfolio]()</b>
+- 📫 Check out my personal website: <b>[My Portfolio](https://graceful-monstera-abc6ec.netlify.app/)</b>
 
 ---
 
