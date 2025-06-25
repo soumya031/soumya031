@@ -117,9 +117,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   </a>
-  <a href="https://ai-image-soumya-865419808765.us-west1.run.app/">
-    <img src=""alt="App">
-  </a>
 </p>
 
 <p align="center">✨ Let's build the future with code ✨</p>
