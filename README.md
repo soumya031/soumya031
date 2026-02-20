@@ -85,9 +85,8 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumya031&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya031&layout=compact&theme=radical" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=soumya031&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=soumya031&theme=radical" alt="GitHub Streak"/>
 </p>
-
 ---
 
 ### 🚀 Projects:
